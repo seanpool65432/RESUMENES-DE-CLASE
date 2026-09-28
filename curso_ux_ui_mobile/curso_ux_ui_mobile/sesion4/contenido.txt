@@ -1,0 +1,3 @@
+Sesión 4 — Interfaces para Videojuegos Móviles
+Concepto: UX de juegos (diversión y flujo) vs UI (HUD y controles). El reto debe crecer con la habilidad (Csikszentmihalyi).
+Clave: Feedback "juicy" (visual, sonoro y háptico) y monetización ética (evitar dark patterns).

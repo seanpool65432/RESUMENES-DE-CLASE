@@ -1,0 +1,3 @@
+Sesión 17 — Métricas de Diseño y Analítica
+Concepto: Marco HEART de Google (Happiness, Engagement, Adoption, Retention, Task success).
+Clave: Evitar métricas vanidosas (descargas) y enfocarse en la retención por cohortes.

@@ -1,0 +1,3 @@
+Sesión 12 — Accesibilidad e Inclusión
+Concepto: Principios POUR (Perceptible, Operable, Comprensible, Robusto). Tamaño táctil mínimo de 44-48 dp/pt.
+Prueba: Testeo real con lectores de pantalla (TalkBack/VoiceOver) y contraste verificado.

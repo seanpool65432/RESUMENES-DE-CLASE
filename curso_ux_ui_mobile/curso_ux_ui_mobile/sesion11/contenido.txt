@@ -1,0 +1,4 @@
+Módulo 3: Plataformas, Accesibilidad y Marca
+Sesión 11 — Multiplataforma: iOS y Android
+Concepto: Adaptar el diseño a convenciones nativas (Android: Material 3; iOS: HIG).
+Clave: Respetar Safe Areas (notch, barra de gestos) y diseñar de forma adaptativa para tablets y plegables.

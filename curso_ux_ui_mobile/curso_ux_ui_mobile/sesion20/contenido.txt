@@ -1,0 +1,3 @@
+Sesión 20 — Proyecto Integrador: Del Diseño a la App
+Concepto: Proceso de Doble Diamante (Descubrir, Definir, Desarrollar, Entregar). Handoff para desarrolladores.
+Final: Creación de un portafolio de impacto con un video demo de 2 minutos y documentación del proceso.

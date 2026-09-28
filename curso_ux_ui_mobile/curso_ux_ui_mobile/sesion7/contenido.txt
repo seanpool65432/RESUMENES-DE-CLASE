@@ -1,0 +1,3 @@
+Sesión 7 — Tipografía, Color y Jerarquía Visual
+Concepto: Escalas modulares y accesibilidad. Contraste mínimo WCAG de 4.5:1.
+Jerarquía: El ojo sigue el orden: Tamaño → Peso → Color → Posición → Espacio.

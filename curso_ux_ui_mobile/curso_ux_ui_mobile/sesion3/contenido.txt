@@ -1,0 +1,3 @@
+Sesión 3 — Arquitectura de Información y Navegación
+Concepto: Organizar contenido según la Ley de Miller (7±2 elementos). Uso de Card Sorting y Tree Testing.
+Navegación: Patrones móviles como tabs inferiores (zona del pulgar), drawers y bottom sheets.

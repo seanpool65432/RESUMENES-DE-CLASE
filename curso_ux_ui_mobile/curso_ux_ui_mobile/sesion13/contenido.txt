@@ -1,0 +1,3 @@
+Sesión 13 — Onboarding, Retención y Engagement
+Concepto: Reducir el Time-to-Value. El usuario debe vivir un "momento aha" antes de pedir registros complejos.
+Estrategia: Permisos contextuales (pedir cámara solo al escanear) y notificaciones de valor real.

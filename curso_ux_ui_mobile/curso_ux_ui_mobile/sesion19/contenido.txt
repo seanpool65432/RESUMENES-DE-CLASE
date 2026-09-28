@@ -1,0 +1,3 @@
+Sesión 19 — Modelo de Negocio y Diseño de Servicios
+Concepto: Alineación con modelos sostenibles (Freemium, Suscripción). Diseño de Paywalls honestos.
+Herramienta: Service Blueprint para ver lo que pasa tras bambalinas (logística, soporte).

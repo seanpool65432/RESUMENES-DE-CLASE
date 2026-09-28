@@ -1,0 +1,5 @@
+Módulo 1
+Sesión 1 — UX Holística: Éxito y Percepción
+Concepto: La UX es la suma de todas las interacciones. Se basa en las 7 facetas de Morville: útil, usable, deseable, valiosa, accesible, creíble y encontrable.
+Símil: Es como un restaurante; la UI es el plato, pero la UX es desde la reserva hasta la cuenta.
+Clave: Diseñar para contextos hostiles (interrupciones, poca luz, una mano).

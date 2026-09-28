@@ -1,0 +1,4 @@
+Módulo 4: Validación, IA y Negocio
+Sesión 16 — Pruebas de Usabilidad y Prototipado Avanzado
+Concepto: Validar con usuarios reales mediante tareas (Task-based testing). Uso del método RITE (iteración rápida).
+Métrica: Escala SUS (System Usability Scale) para medir satisfacción subjetiva.

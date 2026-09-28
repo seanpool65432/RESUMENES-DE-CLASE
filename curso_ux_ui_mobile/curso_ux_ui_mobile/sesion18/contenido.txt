@@ -1,0 +1,3 @@
+Sesión 18 — Diseño de Apps con IA
+Concepto: La IA como Copiloto (asistente) o Piloto Automático. Priorizar la explicabilidad y el control humano.
+Clave: Diseñar estados de "pensando" y ofrecer siempre un camino de fallback humano.

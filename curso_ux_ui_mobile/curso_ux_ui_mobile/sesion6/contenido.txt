@@ -1,0 +1,4 @@
+Módulo 2: Sistemas Visuales y Patrones
+Sesión 6 — Sistemas de Diseño
+Concepto: Lenguaje visual compartido basado en tokens (color, tipografía) y componentes atómicos.
+Referencia: Material Design 3 (Google) y Human Interface Guidelines (Apple).

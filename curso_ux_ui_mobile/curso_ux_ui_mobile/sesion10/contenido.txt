@@ -1,0 +1,3 @@
+Sesión 10 — Patrones de Diseño Móvil y Heurísticas
+Concepto: Aplicación de las 10 heurísticas de Nielsen y leyes de UX (Fitts, Hick, Jakob).
+Clave: No reinventar la rueda; usar patrones conocidos como pull to refresh o swipe para acciones.

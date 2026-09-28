@@ -1,0 +1,3 @@
+Sesión 14 — Contenido, Microcopy y Tono de Voz
+Concepto: Escribir de forma clara, breve y en voz activa. El botón debe decir exactamente lo que hace.
+Clave: Localización para LatAm (evitar modismos locales) y mensajes de error que ayuden, no que culpen.

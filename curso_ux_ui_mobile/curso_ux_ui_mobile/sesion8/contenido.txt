@@ -1,0 +1,3 @@
+Sesión 8 — Microinteracciones y Animación
+Concepto: Disparador (trigger) → Reglas → Feedback. Las animaciones deben durar entre 100 y 500 ms.
+Propósito: Comunicar estados (carga con skeletons) y confirmar acciones sin marear al usuario.

@@ -1,0 +1,3 @@
+Sesión 5 — Wireframes y Flujo de Pantallas
+Concepto: Prototipar de baja a alta fidelidad. Definir el Happy Path y caminos de error (red lenta, dato inválido).
+Estados: Diseñar siempre los 5 estados: vacío, cargando (skeleton), error, lleno y edición.
